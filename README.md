@@ -1,7 +1,3 @@
----
-description: test
----
-
 # IRedis \(Interactive Redis\)
 
 ![](https://raw.githubusercontent.com/laixintao/iredis/master/docs/assets/logo.png)
